@@ -22,7 +22,7 @@ public class Reguistro_Cliente {
          
          
          
-         System.out.println("1223");
+         
     }
     
 }
