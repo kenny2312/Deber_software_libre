@@ -17,6 +17,12 @@ public class Reguistro_Cliente {
     public static void main(String[] args) {
         // TODO code application logic here
          new Vista().setVisible(true);
+         
+         //hola
+         
+         
+         
+         System.out.println("1223");
     }
     
 }
